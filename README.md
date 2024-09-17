@@ -24,7 +24,7 @@ Encapsulation: Ensures data integrity and security through private attributes an
 
 Abstraction: Abstracts complex operations behind user-friendly methods and interfaces.
 
-#Technologies Used:
+# Technologies Used:
 Java: Core language for application development.
 
 Swing/JavaFX: For creating the graphical user interface.
@@ -36,19 +36,13 @@ Object-Oriented Programming (OOP): Fundamental design principles applied through
 # How to Use:
 Clone the Repository:
 
-bash
-
 git clone https://github.com/your-username/real-estate-app.git
 
 Navigate to the Project Directory:
 
-bash
-
 cd real-estate-app
 
 Compile and Run:
-
-bash
 
 javac -d bin src/*.java
 
@@ -70,7 +64,7 @@ Run the Application: Launch the application and explore the features through the
 
 Explore Properties: Use the search and filter options to find properties that match your criteria.
 
-#Contributing:
+# Contributing:
 Feel free to contribute to this project by submitting issues, feature requests, or pull requests. Your contributions are welcome!
 
 
